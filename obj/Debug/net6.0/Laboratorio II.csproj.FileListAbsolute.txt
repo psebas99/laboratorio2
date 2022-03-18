@@ -1,0 +1,30 @@
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\bin\Debug\net6.0\Laboratorio II.exe
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\bin\Debug\net6.0\Laboratorio II.deps.json
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\bin\Debug\net6.0\Laboratorio II.runtimeconfig.json
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\bin\Debug\net6.0\Laboratorio II.dll
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\bin\Debug\net6.0\Laboratorio II.pdb
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.csproj.AssemblyReference.cache
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.AssemblyInfoInputs.cache
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.AssemblyInfo.cs
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.csproj.CoreCompileInputs.cache
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.dll
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\refint\Laboratorio II.dll
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.pdb
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\Laboratorio II.genruntimeconfig.cache
+D:\Documentos\Kinal\Kinal\Net\Laboratorio II\obj\Debug\net6.0\ref\Laboratorio II.dll
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\bin\Debug\net6.0\Laboratorio II.exe
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\bin\Debug\net6.0\Laboratorio II.deps.json
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\bin\Debug\net6.0\Laboratorio II.runtimeconfig.json
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\bin\Debug\net6.0\Laboratorio II.dll
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\bin\Debug\net6.0\Laboratorio II.pdb
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.csproj.AssemblyReference.cache
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.AssemblyInfoInputs.cache
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.AssemblyInfo.cs
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.dll
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\refint\Laboratorio II.dll
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.pdb
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\Laboratorio II.genruntimeconfig.cache
+C:\Users\ENVY\Desktop\BACKEND\prod\Laboratorio II\Laboratorio II\obj\Debug\net6.0\ref\Laboratorio II.dll
